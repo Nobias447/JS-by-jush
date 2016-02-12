@@ -1,1 +1,5 @@
-
+var joshFag
+if joshFag = true
+print "hello Josh"
+else if joshFag = false
+stop
