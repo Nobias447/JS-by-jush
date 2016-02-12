@@ -3,3 +3,14 @@ if joshFag = true
 print "hello Josh"
 else if joshFag = false
 stop
+// no the code in JS should look more like this. 
+
+
+var joshFag = true
+
+if (joshFag === true){
+  console.log("Hello Josh");
+}
+else {
+  console.log("Stop");
+}
